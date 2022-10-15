@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gerrysetiawan/gerrysetiawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"> 
+<a href="https://news.ycombinator.com/user?id=gerrysetiawan">
+<img alt="HackerNews User Karma" src="https://img.shields.io/hackernews/user-karma/gerrysetiawan?label=u%2Fgerrysetiawan&style=social"> </a>
+<a href="https://www.reddit.com/user/gerrysetiawan">
+<img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/link/gerrysetiawan?label=u%2Fgerrysetiawan&style=social"> </a> 
+</p>
+
+<p align="center">
+<s>Work</s><sup>PLAY</sup> to live.
+</p>
