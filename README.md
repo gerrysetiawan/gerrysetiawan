@@ -14,12 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"> 
-<a href="https://news.ycombinator.com/user?id=gerrysetiawan">
-<img alt="HackerNews User Karma" src="https://img.shields.io/hackernews/user-karma/gerrysetiawan?label=u%2Fgerrysetiawan&style=social"> </a>
-<a href="https://www.reddit.com/user/gerrysetiawan">
-<img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/link/gerrysetiawan?label=u%2Fgerrysetiawan&style=social"> </a> 
+<a href="https://keybase.io/gerrysetiawan">
+<img alt="Keybase PGP" src="https://img.shields.io/keybase/pgp/gerrysetiawan?style=plastic">
 </p>
-
 <p align="center">
 <s>Work</s><sup>PLAY</sup> to live.
 </p>
