@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> 
-<a href="https://keybase.io/gerrysetiawan">
-<img alt="Keybase PGP" src="https://img.shields.io/keybase/pgp/gerrysetiawan?style=plastic">
-</p>
+
 <p align="center">
 <s>Work</s><sup>PLAY</sup> to live.
 </p>
